@@ -1,3 +1,4 @@
 # Most of my repositories are on private.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![joy](https://github-readme-stats.vercel.app/api?username=joyclens)](https://github.com/joyclens)
+
