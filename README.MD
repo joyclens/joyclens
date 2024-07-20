@@ -1,9 +1,6 @@
 &nbsp;<div align="center">
   # all of my repositories are on private
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21iaphpwcb2zcl7goxny3iq5i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21iaphpwcb2zcl7goxny3iq5i&redirect=true)
-</div>
-
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
