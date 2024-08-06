@@ -1,9 +1,5 @@
-<p align="center"> 
-# self taught programmer. i do not share my repositories unless needed.
-
-
-
-
+<p align="center">
+  self taught programmer. all my repositories are on private.
 </p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21iaphpwcb2zcl7goxny3iq5i">
