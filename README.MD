@@ -1,5 +1,6 @@
   <div align="center">
-self taught programmer, all my repositories are on private : ) 
+hi! all of my repositories are on private so please dont ask to see my code!
+i'm self taught, i cannot help you program. 
 
 ## 
 
