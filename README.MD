@@ -4,7 +4,7 @@ i'm self taught, i cannot help you program.
 
 ## 
 
-<p align="center"><img src="https://count.getloli.com/get/@:biipolar" alt=":biipolar" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:joyclens" alt=":joyclens" /></p>
 
 ##
 
