@@ -1,47 +1,80 @@
 <div align="center">
 
-# joyclens  
+# joyclens
 
-![commits](https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white)
-![repos](https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white)
-![stars](https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white)
-![followers](https://img.shields.io/badge/followers-—-000000?style=flat&logo=github&logoColor=white)
+developer • builder • creator
 
----
+<br/>
 
-### tech stack  
+<!-- quick links -->
+<a href="https://your-portfolio.example" target="_blank">website</a> ·
+<a href="mailto:you@example.com">email</a> ·
+<a href="https://github.com/joyclens">github</a>
+
+<br/><br/>
+
+<!-- featured work (minimal) -->
+## featured
+<a href="https://github.com/joyclens/project-one">project one</a> — concise one-liner about what it does  
+<a href="https://github.com/joyclens/project-two">project two</a> — short value statement  
+<a href="https://github.com/joyclens/project-three">project three</a> — tech + outcome
+
+<br/>
+
+<!-- stack: white icons on black (flat, small, uniform) -->
+## tech stack
 
 <p align="center">
-  <!-- languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,rust&theme=light" />
-  <br/>
-  <!-- frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass&theme=light" />
-  <br/>
-  <!-- backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs&theme=light" />
-  <br/>
-  <!-- databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=light" />
-  <br/>
-  <!-- tools -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,vercel,aws,azure&theme=light" />
+
+<!-- languages -->
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=python&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=javascript&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=typescript&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=go&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=rust&logoColor=white&labelColor=000000" height="22" />
+
+<!-- frontend -->
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=react&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=tailwindcss&logoColor=white&labelColor=000000" height="22" />
+
+<!-- backend -->
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=express&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=fastapi&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=django&logoColor=white&labelColor=000000" height="22" />
+
+<!-- data -->
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=postgresql&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=mysql&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=mongodb&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=redis&logoColor=white&labelColor=000000" height="22" />
+
+<!-- tooling -->
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=docker&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=kubernetes&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=git&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=github&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=vercel&logoColor=white&labelColor=000000" height="22" />
+<img src="https://img.shields.io/badge/- -000000?style=flat&logo=amazonwebservices&logoColor=white&labelColor=000000" height="22" />
+
 </p>
 
----
+<br/>
 
-### activity  
+<!-- minimal activity (no noisy graphs) -->
+## activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyclens&bg_color=ffffff&color=000000&line=000000&point=000000&custom_title=activity&hide_border=true" />
+  <img src="https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/followers-—-000000?style=flat&logo=github&logoColor=white&labelColor=000000" />
 </p>
 
----
-
-### animations  
-
+<!-- subtle animation: typing headline (monochrome) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=14&duration=2500&pause=700&color=000000&center=true&vCenter=true&multiline=true&width=380&lines=building+useful+things;shipping+fast;clean+code%2C+clear+outcomes" alt="typing" />
 </p>
 
 </div>
