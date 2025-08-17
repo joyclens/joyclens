@@ -1,43 +1,28 @@
 <div align="center">
 
-# ✦ joyclens  
-
-minimalist • developer • builder  
+# joyclens  
 
 ---
 
-### 🖥️ GitHub Dashboard
+### github overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=false&hide_title=true&hide_border=true&theme=white" height="130" />
-  <img src="https://streak-stats.demolab.com?user=joyclens&theme=white&hide_border=true&date_format=%5BY%20%5DM%20j" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=false&hide_title=true&hide_border=true&theme=white" height="150" />
+  <img src="https://streak-stats.demolab.com?user=joyclens&theme=white&hide_border=true&date_format=%5BY%20%5DM%20j" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyclens&layout=compact&theme=white&hide_border=true" height="150" />
 </p>
 
 ---
 
-### ⚡ Activity
+### tech stack  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyclens&bg_color=ffffff&color=000000&line=000000&point=333333&hide_border=true)](https://github.com/joyclens)
-
----
-
-### 🛠️ Toolbox
-
-<div align="center">
-  
-💻 **Languages**: Python · JavaScript · TypeScript · SQL  
-⚙️ **Frameworks**: Next.js · React · Node.js · Tailwind  
-🗄️ **Databases**: PostgreSQL · MongoDB  
-☁️ **Cloud**: Vercel · Docker  
-
-</div>
+<p align="center">
+python · javascript · typescript · sql · react · next.js · tailwind · node.js · postgresql · docker · vercel
+</p>
 
 ---
-
-### 🌍 Connect
-
-<a href="https://open.spotify.com/user/21iaphpwcb2zcl7goxny3iq5i">🎵 Spotify</a> • 
-<a href="https://github.com/joyclens">💻 GitHub</a> • 
-<a href="#">📨 Contact</a>
 
 </div>
