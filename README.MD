@@ -2,15 +2,17 @@
 
 <!-- languages -->
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="22" />
 
 <!-- frontend -->
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Radix_UI-000000?style=flat-square&logo=radix-ui&logoColor=white" height="22" />
 
 <!-- backend -->
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" height="22" />
