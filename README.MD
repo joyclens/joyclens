@@ -1,26 +1,5 @@
 <div align="center">
 
-# joyclens
-
-developer • builder • creator
-
-<br/>
-
-<!-- quick links -->
-<a href="https://your-portfolio.example" target="_blank">website</a> ·
-<a href="mailto:you@example.com">email</a> ·
-<a href="https://github.com/joyclens">github</a>
-
-<br/><br/>
-
-<!-- featured work (minimal) -->
-## featured
-<a href="https://github.com/joyclens/project-one">project one</a> — concise one-liner about what it does  
-<a href="https://github.com/joyclens/project-two">project two</a> — short value statement  
-<a href="https://github.com/joyclens/project-three">project three</a> — tech + outcome
-
-<br/>
-
 <!-- stack: white icons on black (flat, small, uniform) -->
 ## tech stack
 
@@ -62,15 +41,6 @@ developer • builder • creator
 
 <br/>
 
-<!-- minimal activity (no noisy graphs) -->
-## activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/followers-—-000000?style=flat&logo=github&logoColor=white&labelColor=000000" />
-</p>
 
 <!-- subtle animation: typing headline (monochrome) -->
 <p align="center">
