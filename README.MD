@@ -2,12 +2,6 @@
 
 # joyclens  
 
-developer · builder · creator  
-
----
-
-### github  
-
 ![commits](https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white)
 ![repos](https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white)
 ![stars](https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white)
