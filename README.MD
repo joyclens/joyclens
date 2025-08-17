@@ -34,4 +34,8 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" height="22" />
 
+<img src="https://img.shields.io/badge/joyclen.ws-000000?style=flat-square&logo=google-chrome&logoColor=white&link=https://joyclen.ws" height="22" />
+
+<img src="https://spotify-now-playing.jonathandion.com/api/spotify?user=1iaphpwcb2zcl7goxny3iq5i?si=65348839db0d46ea&theme=black&hide_album_art=false" height="22" />
+
 </p>
