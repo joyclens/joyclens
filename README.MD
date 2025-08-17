@@ -1,6 +1,5 @@
   <div align="center">
-hi! all of my repositories are on private so please dont ask to see my code!
-i'm self taught, i cannot help you program. 
+[![gs](https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 ## 
 
