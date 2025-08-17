@@ -1,15 +1,9 @@
 <div align="center">
 
 # joyclens  
-
 ![commits](https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white)
 ![repos](https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white)
 ![stars](https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white)
-
----
-
-### activity  
-
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyclens&bg_color=ffffff&color=000000&line=000000&point=000000&custom_title=activity&hide_border=true)
 
 ---
