@@ -1,17 +1,25 @@
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&theme=dark#gh-dark-mode-only)]()
+# 🌌 joyclens
 
-##
+---
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@:joyclens" alt="Profile Views" />
-</p>
+### 📊 GitHub Stats
 
-##
+![Stats](https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)  
+![Streak](https://streak-stats.demolab.com?user=joyclens&theme=transparent&hide_border=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyclens&layout=compact&theme=transparent&hide_border=true)
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21iaphpwcb2zcl7goxny3iq5i">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21iaphpwcb2zcl7goxny3iq5i" alt="Spotify Data Card" />
-</a>
+---
+
+### 🎶 Now Playing
+
+[![Spotify](https://novatorem-joyclens.vercel.app/api/spotify)](https://open.spotify.com/user/21iaphpwcb2zcl7goxny3iq5i)
+
+---
+
+### 👁️ Profile Views
+
+<img src="https://count.getloli.com/get/@joyclens?theme=rule34" alt="Profile Views" />
 
 </div>
