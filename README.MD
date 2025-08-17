@@ -2,35 +2,37 @@
 
 # joyclens  
 
-developer • builder • creator  
+developer · builder · creator  
 
 ---
 
-### github overview  
+### github  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&hide_border=true&theme=transparent&icon_color=000000&title_color=000000&text_color=000000" height="150" />
-  <img src="https://streak-stats.demolab.com?user=joyclens&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyclens&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=000000" height="150" />
-</p>
+![commits](https://img.shields.io/badge/commits-—-000000?style=flat&logo=git&logoColor=white)
+![repos](https://img.shields.io/badge/repos-—-000000?style=flat&logo=github&logoColor=white)
+![stars](https://img.shields.io/badge/stars-—-000000?style=flat&logo=starship&logoColor=white)
 
 ---
 
 ### activity  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joyclens&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" />
-</p>
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joyclens&bg_color=ffffff&color=000000&line=000000&point=000000&custom_title=activity&hide_border=true)
 
 ---
 
 ### tech stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,nodejs,postgresql,docker,vercel&theme=light" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35" />
 </p>
 
 </div>
