@@ -1,5 +1,5 @@
   <div align="center">
-[![gs](https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![gs](https://github-readme-stats.vercel.app/api?username=joyclens&show_icons=true&theme=dark#gh-dark-mode-only)]()
 
 ## 
 
