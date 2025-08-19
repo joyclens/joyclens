@@ -5,7 +5,6 @@ i can't teach you how to code.
 
 ---
 
-### languages  
 <p>
   <img src="https://cdn.simpleicons.org/python/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/javascript/ffffff" height="40" />
@@ -20,14 +19,12 @@ i can't teach you how to code.
   <img src="https://cdn.simpleicons.org/elixir/ffffff" height="40" />
 </p>
 
-### frontend  
 <p>
   <img src="https://cdn.simpleicons.org/react/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="40" />
 </p>
 
-### backend  
 <p>
   <img src="https://cdn.simpleicons.org/node.js/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/express/ffffff" height="40" />
@@ -35,17 +32,14 @@ i can't teach you how to code.
   <img src="https://cdn.simpleicons.org/fastapi/ffffff" height="40" />
 </p>
 
-### databases  
 <p>
   <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/mysql/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/redis/ffffff" height="40" />
 </p>
 
-### hosting / cloud  
 <p>
   <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" />
-  <img src="https://cdn.simpleicons.org/amazonaws/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/kubernetes/ffffff" height="40" />
 </p>
