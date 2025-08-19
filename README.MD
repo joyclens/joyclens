@@ -5,7 +5,6 @@ i can't teach you how to code.
 
 ---
 
-### stack  
 <p>
   <img src="https://cdn.simpleicons.org/lua/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/python/ffffff" height="40" />
@@ -13,7 +12,6 @@ i can't teach you how to code.
   <img src="https://cdn.simpleicons.org/typescript/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/ruby/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/go/ffffff" height="40" />
-  <img src="https://cdn.simpleicons.org/rust/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/kotlin/ffffff" height="40" />
 </p>
 
