@@ -5,32 +5,21 @@ i can't teach you how to code.
 
 ---
 
-### stack  
+### languages  
 <p>
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-python.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-rust.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-golang.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-typescript.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-kotlin.svg" height="36" />
-</p>
-<p>
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-react.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-nextjs.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-tailwind.svg" height="36" />
-</p>
-<p>
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-postgresql.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-mongodb.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-redis.svg" height="36" />
-</p>
-<p>
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-docker.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-kubernetes.svg" height="36" />
-  <img src="https://tabler-icons.io/static/tabler-icons/icons/brand-aws.svg" height="36" />
+  <img src="https://cdn.simpleicons.org/python/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/rust/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/go/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/typescript/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/kotlin/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/ruby/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/lua/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" height="40" />
 </p>
 
 ---
 
-🌐 [joyclen.ws](https://joyclen.ws)  
+[joyclen.ws](https://joyclen.ws)  
 
 </div>
