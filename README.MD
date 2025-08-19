@@ -1,7 +1,5 @@
 <div align="center">
 
-## hi, i'm joyclen
-
 self-taught developer.  
 i can't teach you how to code.
 
