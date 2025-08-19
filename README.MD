@@ -15,7 +15,6 @@ i can't teach you how to code.
   <img src="https://cdn.simpleicons.org/rust/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/lua/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/cplusplus/ffffff" height="40" />
-  <img src="https://cdn.simpleicons.org/csharp/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/elixir/ffffff" height="40" />
 </p>
 
