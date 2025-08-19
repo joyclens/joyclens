@@ -1,27 +1,38 @@
 <div align="center">
 
-## hi, i'm joyclen — self-taught dev (python · go · kotlin · ts · rust)
+## hi, i'm joyclen
 
-[![currently building](https://img.shields.io/badge/currently-building-my%20portfolio-blue)](https://joyclen.ws)
-
-### what i'm working with  
-<img src="https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=white" height="20" />  
-<img src="https://img.shields.io/badge/go-000000?style=flat-square&logo=go&logoColor=white" height="20" />  
-<img src="https://img.shields.io/badge/kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" height="20" />  
-<img src="https://img.shields.io/badge/typescript-000000?style=flat-square&logo=typescript&logoColor=white" height="20" />  
-<img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white" height="20" />
-
-#### recent work  
-- [project one](#) — brief “what it is.”  
-- [project two](#) — another “what it does.”
-
-*more on my portfolio below ⬇*
+self-taught developer.  
+i can't teach you how to code.
 
 ---
 
-### connect  
-- **site**: [joyclen.ws](https://joyclen.ws)  
-- **github**: [github.com/joyclen](https://github.com/joyclen)  
+### stack  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+</p>
 
-thanks for stopping by ✌  
+---
+
+🌐 [joyclen.ws](https://joyclen.ws)  
+
 </div>
