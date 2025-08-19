@@ -46,6 +46,6 @@ i can't teach you how to code.
 
 ---
 
-🌐 [joyclen.ws](https://joyclen.ws)  
+[joyclen.ws](https://joyclen.ws)  
 
 </div>
