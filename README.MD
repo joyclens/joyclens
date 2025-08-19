@@ -34,7 +34,16 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white" height="22" />
 
-<!-- website -->
-<img src="https://img.shields.io/badge/joyclen.ws-000000?style=flat-square&logo=google-chrome&logoColor=white&link=https://joyclen.ws" height="22" />
+<br><br>
+
+<!-- divider -->
+<img src="https://img.shields.io/badge/──────────-000000?style=flat-square&logoColor=white" height="22" />
+
+<br><br>
+
+<!-- about -->
+<img src="https://img.shields.io/badge/Self_Taught-000000?style=flat-square&logo=github&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Not_A_Tutor-000000?style=flat-square&logo=github&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white&link=https://joyclen.ws" height="22" />
 
 </p>
