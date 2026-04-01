@@ -5,13 +5,13 @@
 <br/><br/>
 
 <a href="https://discord.com/users/1465469795813298287">
-  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=ffffff" />
 </a>
 <a href="https://joyclen.ws">
-  <img src="https://img.shields.io/badge/joyclen.ws-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/joyclen.ws-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
 <a href="https://instagram.com/ovrdues">
-  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=ffffff" />
 </a>
 
 </div>
