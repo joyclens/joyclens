@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/1465469795813298287">
-  <img src="https://lanyard.kyrie25.dev/api/1465469795813298287?bg=000000&hideNameplate=true&hideBadges=true&hideActivity=true&hideTimestamp=true&animatedDecoration=false&borderRadius=12px" />
+  <img src="https://lanyard.kyrie25.dev/api/1465469795813298287?hideStatus=true&hideBadges=true&hideActivity=true&hideTimestamp=true&hideProfile=true&bg=transparent&borderRadius=0px" />
 </a>
 
 ---
