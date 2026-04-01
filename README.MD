@@ -1,9 +1,14 @@
 <div align="center">
 
-[![Discord Presence](https://lanyard.kyrie25.dev/api/1465469795813298287?animated=true&forceGradient=false&hideActivity=true&hideBadges=true&hideProfile=false&hideClan=true&hideStatus=true&animatedDecoration=true&showDisplayName=true&hideNameplate=true&hideTimestamp=true&hideDecoration=true&theme=dark&borderRadius=15px&bg=fffff&gradient=fff&imgBorderRadius=15px)](https://discord.com/users/1465469795813298287)
+[![Discord](https://lanyard.kyrie25.dev/api/1465469795813298287?hideActivity=true&hideBadges=true&hideTimestamp=true&hideStatus=true&bg=transparent&borderRadius=20px)](https://discord.com/users/1465469795813298287)
 
----
+<br/>
 
-[joyclen.ws](https://joyclen.ws)  
+<a href="https://discord.com/users/1465469795813298287">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+</a>
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
 
 </div>
