@@ -1,14 +1,17 @@
 <div align="center">
 
-[![Discord](https://lanyard.kyrie25.dev/api/1465469795813298287?hideActivity=true&hideBadges=true&hideTimestamp=true&hideStatus=true&bg=transparent&borderRadius=20px)](https://discord.com/users/1465469795813298287)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1465469795813298287?animated=true&forceGradient=false&hideActivity=false&hideBadges=false&hideProfile=false&hideClan=true&hideStatus=false&animatedDecoration=true&showDisplayName=true&hideNameplate=false&hideTimestamp=false&hideDecoration=false&theme=dark&borderRadius=25px&bg=000&gradient=fff&imgBorderRadius=25px&waveColor=222&waveSpotifyColor=212121)](https://discord.com/users/1465469795813298287)
 
-<br/>
+<br/><br/>
 
 <a href="https://discord.com/users/1465469795813298287">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=ffffff" />
 </a>
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+<a href="https://joyclen.ws">
+  <img src="https://img.shields.io/badge/joyclen.ws-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+</a>
+<a href="https://instagram.com/ovrdues">
+  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ffffff" />
 </a>
 
 </div>
